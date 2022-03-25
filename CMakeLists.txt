@@ -1,5 +1,6 @@
 cmake_minimum_required(VERSION 2.8.12)
 project(MD5Encrypter)
+###
 
 if(CMAKE_VERSION VERSION_LESS 3.0.0)
     include(CheckCXXCompilerFlag)
