@@ -9,7 +9,7 @@ Mostly used to run the conan.io getting started: https://docs.conan.io/en/latest
 
 1. Create a build directory:
 
-    ```''
+    ```
     $ mkdir build && cd build
     ```
 
